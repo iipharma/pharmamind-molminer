@@ -13,4 +13,5 @@ Molecular structures are commonly depicted in 2D printed forms in scientific doc
 # Release logs
 
 - [PharmaMind-MolMiner Releases](https://github.com/iipharma/pharmamind-molminer/releases)
-
+- [MAC CDN download](https://molminer-cdn.iipharma.cn/pharma-mind/artifact/latest/mac/PharmaMind-mac-latest-setup.dmg)
+- [Win CDN download](https://molminer-cdn.iipharma.cn/pharma-mind/artifact/latest/win/PharmaMind-win-latest-setup.exe)
